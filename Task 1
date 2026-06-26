@@ -1,0 +1,132 @@
+  Task 1 
+Introduction to IOT and
+Device communication
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Introduction to IoT</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Introduction to IoT & Device Communication</h1>
+
+<h2>What is IoT?</h2>
+
+<p>
+Internet of Things (IoT) is a technology where physical devices
+are connected to the internet to collect, exchange and process data.
+IoT devices use sensors, networks and software to perform smart actions.
+</p>
+
+
+<h2>IoT Architecture</h2>
+
+<div class="box">
+
+<h3>1. Devices / Sensors</h3>
+<p>
+Sensors collect data from the environment like temperature,
+humidity, motion and pressure.
+</p>
+
+<h3>2. Network</h3>
+<p>
+The network transfers sensor data using WiFi, Bluetooth,
+or other communication technologies.
+</p>
+
+
+<h3>3. Cloud</h3>
+<p>
+Cloud stores and processes IoT data and provides services
+for users.
+</p>
+
+
+<h3>4. User Application</h3>
+<p>
+Users monitor and control IoT systems through applications.
+</p>
+
+</div>
+
+
+<h2>Data Flow in IoT System</h2>
+
+<p>
+
+Sensor → Network → Cloud → Application → User
+
+</p>
+
+
+<h2>Real World IoT Applications</h2>
+
+<ul>
+
+<li>Smart Home Automation</li>
+
+<li>Smart Agriculture</li>
+
+<li>Health Monitoring System</li>
+
+<li>Smart Cities</li>
+
+</ul>
+
+
+<h2>Device Communication</h2>
+
+<p>
+IoT devices communicate with each other by sending data
+through wireless networks. Sensors collect information,
+send it to the cloud, and the system performs required actions.
+</p>
+
+
+</body>
+
+</html>
+body{
+
+font-family: Arial;
+background:#f2f7ff;
+padding:20px;
+
+}
+
+
+h1{
+
+text-align:center;
+color:#003366;
+
+}
+
+
+h2{
+
+color:#006699;
+
+}
+
+
+p,li{
+
+font-size:18px;
+line-height:1.6;
+
+}
+
+
+.box{
+
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+
+}
