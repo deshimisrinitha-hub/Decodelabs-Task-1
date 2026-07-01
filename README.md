@@ -19,3 +19,6 @@ To understand IoT architecture and communication between devices.
 - VS Code
 - HTML
 - CSS
+
+#Author
+Srinitha Deshimi
