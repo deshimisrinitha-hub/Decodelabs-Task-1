@@ -20,5 +20,4 @@ To understand IoT architecture and communication between devices.
 - HTML
 - CSS
 
-#Author
-Srinitha Deshimi
+
